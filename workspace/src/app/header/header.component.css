@@ -1,0 +1,13 @@
+.btn-primary{
+    background-color: #1b54a7;   
+}
+
+.header-section{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.button2{
+    margin-left: 15px;
+}

@@ -1,0 +1,12 @@
+.header{
+    border-bottom: 1px solid rgb(120, 145, 146);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+.entire-body{
+    padding-left: 15px;
+    padding-right: 15px;
+    max-width: 100%;
+    margin: 0px;
+}

@@ -1,0 +1,10 @@
+
+.btn-group-vertical a:hover{
+    background-color:#1b54a7;
+    color: white;
+}
+.btn {
+    margin: 10px 0px;
+    border:1px solid rgb(120, 145, 146) ;
+    color:#1b54a7 ;
+}
